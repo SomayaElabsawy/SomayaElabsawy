@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...health and pharmacy
 - 🌱 I’m currently learning ...pharmacy
 - 💞️ I’m looking to collaborate on ...learning new skills
-- 📫 How to reach me ...to success
+- 📫 How to reach me ...by my mail
 
 <!---
 SomayaElabsawy/SomayaElabsawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
